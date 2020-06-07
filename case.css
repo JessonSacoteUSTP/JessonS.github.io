@@ -1,0 +1,38 @@
+/* CASES HTML */
+.container{
+    width: 1024px;
+    margin-left: auto;
+    margin-right: auto;
+    
+    }
+  
+  .container h5{
+   font-size: 20px;
+    text-align: center;
+    font-weight: bold;
+  }
+  
+  .container p{
+    text-align: center;
+  }
+  .container i{
+    padding-left: 30px;
+  }
+  table{
+    font-size: 13px;
+  }
+  th{
+    color: rgb(58, 58, 58);
+  
+  }
+  
+  
+  .dead{
+    color: red;
+  }
+  .recovered{
+    color: green;
+  }
+  .admitted{
+    color: blue;
+  }
