@@ -185,41 +185,4 @@ text-align: center;
 }
 
 
-/* CASES HTML */
-.containerb{
-  width: 1024px;
-  margin-left: auto;
-  margin-right: auto;
-  
-  }
 
-.containerb h5{
- font-size: 20px;
-  text-align: center;
-  font-weight: bold;
-}
-
-.containerb p{
-  text-align: center;
-}
-.containerb i{
-  padding-left: 40px;
-}
-table{
-  font-size: 13px;
-}
-th{
-  color: rgb(58, 58, 58);
-
-}
-
-
-.dead{
-  color: red;
-}
-.recovered{
-  color: green;
-}
-.admitted{
-  color: blue;
-}
