@@ -1,4 +1,18 @@
 /* CASES HTML */
+nav form{
+  padding-left: 680px;
+  }
+  
+  nav a{
+  font-size: 15px;
+  padding-right: 20px;
+  }
+  
+  .navbar-nav{
+  padding-left: 200px;
+  color:white;
+  }
+  
 .container{
     width: 1024px;
     margin-left: auto;
@@ -36,3 +50,22 @@
   .admitted{
     color: blue;
   }
+
+  .container p1{
+    text-align: left;
+  }
+
+    footer{
+      margin-top: 10px;
+      }
+      
+      .footercontainer a{
+      font-size: 30px;
+      padding-left: 15px;
+      padding-right: 15px;
+      }
+      
+      .footercontainer .row{
+      text-align: center;
+      }
+      
